@@ -19,11 +19,12 @@
 | Project | What it is |
 |---|---|
 | [**RDD2022 road damage detection**](https://github.com/Einooo/rdd2022-road-damage-yolov8) | YOLOv8s on 38k road images from 7 countries: dataset audit, per-country error analysis, and tests of TTA, tiling, higher resolution and label cleaning. |
+| [**GYMini**](https://github.com/Einooo/GYMini) | Graduation project (team of 5): Flutter app with live exercise form feedback from MediaPipe pose models over Socket.IO, plus a fitness and diet chatbot. |
 | [**LangChain tutorial**](https://github.com/Einooo/langchain-tutorial) | Chatbots on Groq (cloud) and Ollama (local), chains served as a REST API with LangServe/FastAPI, and a RAG pipeline with Chroma. |
 | [**Deployment-LLM-As-API**](https://github.com/Einooo/Deployment-LLM-As-API) | FastAPI + LangServe backend with a Streamlit client for Groq and Ollama models. |
 | [**ibm_RAG**](https://github.com/Einooo/ibm_RAG) | Retrieval-augmented generation exercises from the IBM RAG course on Coursera. |
 
-More projects (GYMini AI gym assistant, deepfake image classification with Vision Transformers, text generation with RNNs) are on my [portfolio](https://einosworld.vercel.app/).
+More projects (deepfake image classification with Vision Transformers, text generation with RNNs) are on my [portfolio](https://einosworld.vercel.app/).
 
 ## Tech stack
 **ML & data:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Ultralytics YOLO](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=ultralytics&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)

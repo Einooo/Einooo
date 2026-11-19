@@ -1,30 +1,33 @@
-![MasterHead](https://nextshark.b-cdn.net/wp-content/uploads/2018/01/007.gif?width=1920&align=center)
-<h1 align="center">Hi 👋, I'm Muhannad</h1>
-<h3 align="center">A passionate Artificial Intelligence student</h3>
-<img align="right" alt="Coding" width="400" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/3229471/learn-coding-clipart-md.png">
+<h1 align="center">Hi, I'm Muhannad 👋</h1>
+<p align="center"><b>AI/ML Engineer · M.Sc. Artificial Intelligence student at BTU Cottbus-Senftenberg, Germany</b></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=einooo&label=Profile%20views&color=0e75b6&style=flat" alt="einooo" /> </p>
-
-- 🌱 I’m currently learning **Machine and deep learning**
-
-- 📫 How to reach me **muhannadeion1@gmail.com**
-
-- 📄 Know about my experiences [https://einosworld.vercel.app/](https://einosworld.vercel.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhannad-eino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhannad eino" height="30" width="40" /></a>
-<a href="https://kaggle.com/muhannad eino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhannad eino" height="30" width="40" /></a>
-<a href="https://fb.com/muhannad eino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhannad eino" height="30" width="40" /></a>
-<a href="https://instagram.com/tall__e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tall__e" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/m.eino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="m.eino" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://einosworld.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-einosworld-0e75b6?style=flat-square" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/muhannad-eino"><img src="https://img.shields.io/badge/LinkedIn-muhannad--eino-0A66C2?style=flat-square" alt="LinkedIn"/></a>
+  <a href="https://www.kaggle.com/muhannadeino"><img src="https://img.shields.io/badge/Kaggle-muhannadeino-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://codeforces.com/profile/m.eino"><img src="https://img.shields.io/badge/Codeforces-m.eino-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="mailto:muhannadeion1@gmail.com"><img src="https://img.shields.io/badge/Email-muhannadeion1%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## About me
+- 🎓 M.Sc. Artificial Intelligence at BTU Cottbus-Senftenberg; B.Sc. Computer Science (AI) from Cairo University (FCAI).
+- 🔍 I work on computer vision and LLM applications, and I care about measuring what actually works: data audits, error analysis and honest baselines.
+- 💼 Previously: backend developer intern at the National Bank of Egypt, and freelance AI training work with Scale AI.
+- 🤝 Open to **Werkstudent** and internship roles in ML / AI engineering in Germany.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=einooo&show_icons=true&locale=en&layout=compact" alt="einooo" /></p>
+## Featured projects
+| Project | What it is |
+|---|---|
+| [**RDD2022 road damage detection**](https://github.com/Einooo/rdd2022-road-damage-yolov8) | YOLOv8s on 38k road images from 7 countries: dataset audit, per-country error analysis, and tests of TTA, tiling, higher resolution and label cleaning. |
+| [**LangChain tutorial**](https://github.com/Einooo/langchain-tutorial) | Chatbots on Groq (cloud) and Ollama (local), chains served as a REST API with LangServe/FastAPI, and a RAG pipeline with Chroma. |
+| [**Deployment-LLM-As-API**](https://github.com/Einooo/Deployment-LLM-As-API) | FastAPI + LangServe backend with a Streamlit client for Groq and Ollama models. |
+| [**ibm_RAG**](https://github.com/Einooo/ibm_RAG) | Retrieval-augmented generation exercises from the IBM RAG course on Coursera. |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=einooo&show_icons=true&locale=en" alt="einooo" /></p>
+More projects (GYMini AI gym assistant, deepfake image classification with Vision Transformers, text generation with RNNs) are on my [portfolio](https://einosworld.vercel.app/).
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=einooo&" alt="einooo" /></p>
+## Tech stack
+**ML & data:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Ultralytics YOLO](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=ultralytics&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**LLM apps & backend:** ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Other:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
